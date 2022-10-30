@@ -1,0 +1,9 @@
+.idea
+coverage.out
+frontApp
+logServiceApp
+mailerServiceApp
+authApp
+brokerApp
+listener
+frontEndLinux
